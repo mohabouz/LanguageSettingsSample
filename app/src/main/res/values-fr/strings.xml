@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LanguageSettingSample</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="menu_gallery">Galerie</string>
+    <string name="menu_home">Accueil</string>
+    <string name="menu_slideshow">Diaporama</string>
+    <string name="menu_tools">Outils</string>
+    <string name="menu_share">Partager</string>
+    <string name="menu_send">Envoyer</string>
+    <string name="lang_settings">Langue</string>
+
+</resources>

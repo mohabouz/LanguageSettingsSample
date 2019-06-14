@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageSettingSample</string>
+
+    <string name="menu_home">الصفحة الرئيسية</string>
+    <string name="menu_gallery">المعرض</string>
+    <string name="menu_slideshow">عرض الشرائح</string>
+    <string name="menu_tools">الأدوات</string>
+    <string name="menu_share">مشاركة</string>
+    <string name="menu_send">إرسال</string>
+    <string name="action_settings">اعدادات</string>
+    <string name="lang_settings">اللغة</string>
+</resources>
